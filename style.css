@@ -3,6 +3,9 @@
     font-family: "Inter", sans-serif;
     text-align: center;
 }
+body{
+    background-color: hsl(0, 0%, 8%);
+}
 .container{
     background-color: hsl(0, 0%, 8%);
     display: flex;
